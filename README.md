@@ -17,7 +17,6 @@ proficiency in data structures to better equip myself.</h3>
 
 - 📫 How to reach me **bkumar_be23@thapar.edu**
 
-- 📄 Resume Link [https://drive.google.com/file/d/171cFGWewMIuKI8eR0Bc1JCmozhbdCtc_/view?usp=drive_link](https://drive.google.com/file/d/171cFGWewMIuKI8eR0Bc1JCmozhbdCtc_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
