@@ -9,13 +9,13 @@ proficiency in data structures to better equip myself.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhup-github&label=Profile%20views&color=0e75b6&style=flat" alt="bhup-github" /> </p>
 
 
-- 🔭 I’m currently working on **App Development .**
+- 🔭 I’m currently working on **Native Devlopment .**
 
-- 🌱 I’m currently learning **Kotlin ,Python ,Photoshop.**
+- 🌱 I’m currently learning **Kotlin.**
 
-- 🤝 I’m looking for help in **Android Studio .**
+- 🤝 I’m looking for help in **OSC.**
 
-- 📫 How to reach me **bkumar_be23@thapar.edu**
+- 📫 How to reach me **2bhupeshkumar@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
