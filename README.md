@@ -13,7 +13,7 @@ proficiency in data structures to better equip myself.</h3>
 
 - 🌱 I’m currently learning **Kotlin.**
 
-- 🤝 I’m looking for help in **OSC.**
+- 🤝 I’m looking for help in **DSA.**
 
 - 📫 How to reach me **2bhupeshkumar@gmail.com**
 
