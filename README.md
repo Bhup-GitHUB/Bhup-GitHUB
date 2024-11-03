@@ -11,7 +11,7 @@ proficiency in data structures to better equip myself.</h3>
 
 - 🔭 I’m currently working on **Native Devlopment .**
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **DSA AND REACT NATIVE.**
 
 - 🤝 I’m looking for help in **DSA.**
 
